@@ -5,5 +5,5 @@
 
 ## Sample look
 
-![image]("Screenshot (306).png")
+![image](sample.png)
 
